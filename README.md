@@ -23,3 +23,6 @@ Network Diary는 다음의 기능을 갖습니다.
   (3) Terminal open시 스케쥴 알림 (구현 예정)
 3. GUI 추가
 4. Server에서 서로 다른 머신끼리의 통신 (구현 예정)
+
+
+(ㅎㅇ)
